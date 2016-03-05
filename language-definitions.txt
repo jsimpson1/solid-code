@@ -1,0 +1,3 @@
+* Procedure = code that may have side effects
+
+* Referential Transparency = everything a function does is represented by the result. Like an algebra function!
